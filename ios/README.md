@@ -4,5 +4,5 @@
 
 - AA wallet Android
 - Complete the development of visitor mode and enter the testing phase.
-
+- Optimize the AA wallet, email validation, gas,etc 
   
