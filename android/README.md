@@ -3,6 +3,7 @@
 ## 2023-11-10
 
 - AA wallet Android
-- depin token price list
+- Depin token price list
+- Optimize the AA wallet recovery process.
 
   
