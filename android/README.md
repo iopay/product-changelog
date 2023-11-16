@@ -3,6 +3,7 @@
 ## 2023-11-17
 - AA Wallet Open Test [WIP]
 - ioPay 2.8 Inner Test [WIP]
+- wallet list ui, edit, swipe delete [WIP]
 
 
 ## 2023-11-10
