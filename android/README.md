@@ -5,6 +5,7 @@
 - AA Wallet for android Open Test [WIP]
 - ioPay 2.8 Inner Test [WIP]
 - wallet list ui, edit, swipe delete
+- Swap NFT transfer
 
 
 
