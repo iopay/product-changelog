@@ -1,12 +1,12 @@
 # ioPay Android Changelog
 
 ## 2023-11-17
-- AA Wallet for android Innernal testing
-- AA Wallet for android Open Test [WIP]
+- AA Wallet Innernal testing
+- AA Wallet Open Test
 - ioPay 2.8 Inner Test [WIP]
 - wallet list ui, edit, swipe delete
 - Swap NFT transfer
-
+- AA Wallet email recovery
 
 
 ## 2023-11-10
