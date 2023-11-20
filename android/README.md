@@ -1,5 +1,11 @@
 # ioPay Android Changelog
 
+## 2023-11-20 ~ 2023-11-25
+- AA Wallet Open testing to Public [WIP]
+  Some crashes need to fix
+
+
+
 ## 2023-11-17
 - AA Wallet Innernal testing
 - AA Wallet Open Test
