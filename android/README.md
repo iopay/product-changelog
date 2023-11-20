@@ -2,9 +2,10 @@
 
 ## 2023-11-20 ~ 2023-11-25
 - AA Wallet Open testing to Public [WIP]
-  Some crashes need to fix
+   - Some crashes need to fix
 
-
+- 2.8 Release prepare   [WIP]
+   - Release log prepare [WIP]
 
 ## 2023-11-17
 - AA Wallet Innernal testing
