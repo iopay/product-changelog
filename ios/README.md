@@ -3,6 +3,8 @@
 
 ## 2023-11-20 ~ 2023-11-25
 - AA Wallet Relase [WIP]
+- 2.8 Release prepare [WIP]
+  - Release log prepare [WIP]
 
 
 
