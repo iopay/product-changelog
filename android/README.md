@@ -7,6 +7,10 @@
 - 2.8 Release prepare   [WIP]
    - Release log prepare [WIP]
 
+- 2.8 dvelop [WIP]
+   - updata trust js [WIP]
+   - depin error page [WIP]
+
 ## 2023-11-17
 - AA Wallet Innernal testing
 - AA Wallet Open Test
