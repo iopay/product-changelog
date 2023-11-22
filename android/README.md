@@ -11,6 +11,9 @@
    - updata trust js [WIP]
    - depin error page [WIP]
 
+- 2.8.2 NEW FEATURES Prepare [WIP]
+  - new transfer UI design [DONE]
+
 ## 2023-11-17
 - AA Wallet Innernal testing
 - AA Wallet Open Test
