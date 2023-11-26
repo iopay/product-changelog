@@ -15,6 +15,9 @@
 - 2.8.2 NEW FEATURES Prepare [WIP]
   - new transfer UI design [DONE]
 
+- ioPay desktop wallet
+  - Websocket cert is expired
+
 ## 2023-11-17
 - AA Wallet Innernal testing
 - AA Wallet Open Test
