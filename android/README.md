@@ -1,5 +1,9 @@
 # ioPay Android Changelog
 
+## 2023-11-27 ~ 2023-12-1
+- 2.8 release
+  - 2.8 and aa firebase event [WIP]
+
 ## 2023-11-20 ~ 2023-11-25
 - AA Wallet Open testing to Public [WIP]
    - Some crashes need to fix
@@ -7,7 +11,7 @@
 - 2.8 Release prepare   [WIP]
    - Release log prepare [WIP]
 
-- 2.8 dvelop [WIP]
+- 2.8 dvelop
    - updata trust js
    - depin error page
    - stake cache
