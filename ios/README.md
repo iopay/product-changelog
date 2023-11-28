@@ -18,6 +18,6 @@
 
 ## 2023-11-17
 - Release iopay 2.8.0 iOS [WIP]
-- AA wallet Inner Test [WIP]
+- AA wallet Inner Test [DONE]
 - AA wallet swap and stake、approve logic
 - AA wallet swap\transfer\stake testing
