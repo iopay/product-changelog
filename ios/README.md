@@ -6,13 +6,13 @@
 ## 2023-11-20 ~ 2023-11-25
 - AA Wallet Relase [WIP]
 - 2.8 Release prepare [WIP]
-  - Release log prepare [WIP]
+  - Release log prepare [DONE]
 
 
 
 ## 2023-11-10
 
-- AA wallet iOS [WIP]
+- AA wallet iOS [DONE]
 - Complete the development of visitor mode and enter the testing phase.
 - Optimize the AA wallet, email validation, gas,etc
 
