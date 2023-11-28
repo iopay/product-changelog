@@ -2,7 +2,7 @@
 
 ## 2023-11-27 ~ 2023-12-1
 - 2.8.2 release [done]
-    2.8.2 and aa firebase event
+  - 2.8.2 and aa firebase event
   
 ## 2023-11-20 ~ 2023-11-25
 - AA Wallet Relase [WIP]
