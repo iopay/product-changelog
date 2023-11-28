@@ -2,7 +2,7 @@
 
 ## 2023-11-27 ~ 2023-12-1
 - 2.8 release
-  - 2.8 and aa firebase event [WIP]
+  - 2.8 and aa firebase event
 
 ## 2023-11-20 ~ 2023-11-25
 - AA Wallet Open testing to Public [WIP]
