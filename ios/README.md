@@ -1,6 +1,8 @@
 # ioPay iOS Changelog
 
-
+## 2023-11-27 ~ 2023-12-1
+- 2.8 release [WIP]
+  
 ## 2023-11-20 ~ 2023-11-25
 - AA Wallet Relase [WIP]
 - 2.8 Release prepare [WIP]
