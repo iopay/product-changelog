@@ -5,8 +5,8 @@
   - 2.8.2 and aa firebase event
   
 ## 2023-11-20 ~ 2023-11-25
-- AA Wallet Relase [WIP]
-- 2.8 Release prepare [WIP]
+- AA Wallet Relase [DONE]
+- 2.8 Release prepare [DONE]
   - Release log prepare [DONE]
 
 
