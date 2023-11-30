@@ -2,13 +2,13 @@
 
 ## 2023-11-27 ~ 2023-12-1
 - 2.8 release
-  - 2.8 and aa firebase event
+  - 2.8 and aa firebase event [WIP]
 
 - 2.8.2 ioPay depin vesion
-  - Google open testing
+  - Google open testing [DONE]
 
 ## 2023-11-20 ~ 2023-11-25
-- AA Wallet Open testing to Public [WIP]
+- AA Wallet Open testing to Public [DONE]
    - Some crashes need to fix
 
 - 2.8 Release prepare   [WIP]
