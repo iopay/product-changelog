@@ -2,7 +2,8 @@
 
 ## 2023-11-27 ~ 2023-12-1
 - 2.8 release
-  - 2.8 and aa firebase event [WIP]
+  - 2.8 and aa firebase event
+  - address book [WIP]
 
 - 2.8.2 ioPay depin vesion
   - Google open testing [DONE]
@@ -11,8 +12,8 @@
 - AA Wallet Open testing to Public [DONE]
    - Some crashes need to fix
 
-- 2.8 Release prepare   [WIP]
-   - Release log prepare [WIP]
+- 2.8 Release prepare   
+   - Release log prepare
 
 - 2.8 dvelop
    - updata trust js
