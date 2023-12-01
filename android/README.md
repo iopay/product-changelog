@@ -3,7 +3,7 @@
 ## 2023-11-27 ~ 2023-12-1
 - 2.8 release
   - 2.8 and aa firebase event
-  - address book 50%[WIP]
+  - address book [DONE]
 
 - 2.8.2 ioPay depin vesion
   - Google open testing [DONE]
