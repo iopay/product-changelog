@@ -2,6 +2,7 @@
 
 ## 2.9.0 ioPay
   - New transfer UI [WIP]
+  - Show the balance when query the AA address [DONE]
   - Optimize the AA wallet
 
 ## 2023-11-27 ~ 2023-12-1
