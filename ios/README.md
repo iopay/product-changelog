@@ -1,5 +1,9 @@
 # ioPay iOS Changelog
 
+## 2.9.0 ioPay
+  - New transfer UI [WIP]
+  - Optimize the AA wallet
+
 ## 2023-11-27 ~ 2023-12-1
 - 2.8.2 release [done]
   - 2.8.2 and aa firebase event
