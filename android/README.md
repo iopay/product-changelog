@@ -20,7 +20,7 @@
    - depin error page
    - stake cache
 
-- 2.8.2 NEW FEATURES Prepare [WIP]
+- 2.8.2 NEW FEATURES Prepare
   - new transfer UI design [DONE]
 
 - ioPay desktop wallet
@@ -29,7 +29,7 @@
 ## 2023-11-17
 - AA Wallet Innernal testing
 - AA Wallet Open Test
-- ioPay 2.8 Inner Test [WIP]
+- ioPay 2.8 Inner Test
 - wallet list ui, edit, swipe delete
 - Swap NFT transfer
 - AA Wallet email recovery
