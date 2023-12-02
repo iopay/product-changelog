@@ -4,7 +4,8 @@
 - 2.8 release
   - 2.8 and aa firebase event
   - address book [DONE]
-  - Optimize Web3j data parsing.
+  - Optimize Web3j data parsing
+  - Limit the number of tokens for each chain
 
 - 2.8.2 ioPay depin vesion
   - Google open testing [DONE]
