@@ -4,6 +4,7 @@
   - New transfer UI [WIP]
   - Show the balance when query the AA address [DONE]
   - Optimize the AA wallet
+  - The new transfer UI [DONE]
 
 ## 2023-11-27 ~ 2023-12-1
 - 2.8.2 release [done]
