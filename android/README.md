@@ -1,7 +1,7 @@
 # ioPay Android Changelog
 ## 2023-12-4 ~ 2023-12-8
 - 2.9 develop
-  - transfer [WIP] 
+  - transfer type change
 
 ## 2023-11-27 ~ 2023-12-1
 - 2.8 release
