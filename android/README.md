@@ -2,11 +2,12 @@
 ## 2023-12-4 ~ 2023-12-8
 - 2.9 develop
   - transfer type change
+  - official token [wip]
 
 ## 2023-11-27 ~ 2023-12-1
 - 2.8 release
   - 2.8 and aa firebase event
-  - address book [DONE]
+  - address book
   - Optimize Web3j data parsing
   - Limit the number of tokens for each chain
 
