@@ -9,7 +9,8 @@
   - The new transfer UI [DONE]
   - upgrade token list api to v4[done]
   - import private should auto hidden content[done]
-  - address book improve[wip]
+  - address book improve[done]
+  - transaction confirm improve[wip]
 
 ## 2023-11-27 ~ 2023-12-1
 - 2.8.2 release [done]
