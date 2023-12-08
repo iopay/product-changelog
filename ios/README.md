@@ -10,6 +10,8 @@
   - upgrade token list api to v4[done]
   - import private should auto hidden content[done]
   - address book improve[done]
+  - none support aa transaction dialog[done]
+  - create aa wallet step by step[wip]
   - transaction confirm improve[wip]
 
 ## 2023-11-27 ~ 2023-12-1
