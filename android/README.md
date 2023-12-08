@@ -2,7 +2,7 @@
 ## 2023-12-4 ~ 2023-12-8
 - 2.9 develop
   - transfer type change
-  - official token [wip]
+  - official token
 - BTC wallet support [wip]
 
 ## 2023-11-27 ~ 2023-12-1
