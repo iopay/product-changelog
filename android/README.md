@@ -5,6 +5,7 @@
   - official token
 - BTC wallet support [wip]
   - Generate a mnemonic phrase
+  - Create wallets with different types 
 
 ## 2023-11-27 ~ 2023-12-1
 - 2.8 release
