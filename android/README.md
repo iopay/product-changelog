@@ -6,6 +6,7 @@
 - BTC wallet support [wip]
   - Generate a mnemonic phrase
   - Create wallets with different types 
+  - Transfer from a Bitcoin wallet [wip]
 
 ## 2023-11-27 ~ 2023-12-1
 - 2.8 release
