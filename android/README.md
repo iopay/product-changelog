@@ -4,6 +4,7 @@
   - transfer type change
   - official token
 - BTC wallet support [wip]
+  - Generate a mnemonic phrase
 
 ## 2023-11-27 ~ 2023-12-1
 - 2.8 release
