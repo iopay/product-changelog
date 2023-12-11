@@ -3,6 +3,7 @@
 - 2.9 develop
   - transfer type change
   - official token
+  - transfer dialog
 - BTC wallet support [wip]
   - Generate a mnemonic phrase
   - Create wallets with different types 
