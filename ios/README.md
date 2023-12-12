@@ -13,6 +13,7 @@
   - none support aa transaction dialog[done]
   - create aa wallet step by step[wip]
   - transaction confirm improve[wip]
+  - AA wallet creating process
 
 ## 2023-11-27 ~ 2023-12-1
 - 2.8.2 release [done]
