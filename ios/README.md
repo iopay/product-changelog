@@ -2,7 +2,11 @@
 
 ## 2023-12-18 ~ 2023-12-24
 - Released ioPay v2.8.6 which fixes dapp switching and adds network
-- fix menmonic cannot import problem 
+- fix menmonic cannot import problem
+  
+## 2023-12-11 ~ 2023-12-17
+- 2.9.0 ioPay develop
+  
 ## 2023-12-4 ~ 2012-12-8
 - BTC wallet support [wip]
 - 2.9.0 ioPay
