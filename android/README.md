@@ -2,6 +2,7 @@
 ## 2023-12-18 ~ 2023-12-24
   - Released ioPay v2.8.3 which fixes dapp switching and adds network
   - transfer with json data.
+  - Released ioPay v2.8.7 supported inscription
 
 ## 2023-12-11 ~ 2023-12-17
   - 2.9 develop
