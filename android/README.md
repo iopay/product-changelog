@@ -4,6 +4,7 @@
   - transfer with json data.
   - Released ioPay v2.8.7 supported inscription
   - v2.9.0 test [wip]
+  - Organize the technical documentation for 'userop' in ioPay
 
 ## 2023-12-11 ~ 2023-12-17
   - 2.9 develop
