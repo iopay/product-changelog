@@ -1,5 +1,10 @@
 # ioPay iOS Changelog
 
+## 2023-12-24 ~ 2023-12-29
+  - iopay 2.9.0 release[wip]
+  - imporove confirm transaction dialog
+  - fix 2.9.0 bugs
+
 ## 2023-12-18 ~ 2023-12-24
 - Released ioPay v2.8.6 which fixes dapp switching and adds network
 - fix menmonic cannot import problem
