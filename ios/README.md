@@ -1,4 +1,8 @@
 # ioPay iOS Changelog
+## 2024-1-2 ~ 2024-1-5
+- fix aa transaction error
+- iopay 2.9.0 release[done]
+- develop 2.9.1 ioPay
 
 ## 2023-12-24 ~ 2023-12-29
   - iopay 2.9.0 release[wip]
