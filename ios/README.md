@@ -4,6 +4,7 @@
 - iopay 2.9.0 release[done]
 - develop 2.10.0 ioPay
 - clean up code 
+- rebuild the transaction record
 
 ## 2023-12-24 ~ 2023-12-29
   - iopay 2.9.0 release[done]
