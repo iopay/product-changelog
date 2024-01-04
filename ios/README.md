@@ -2,7 +2,7 @@
 ## 2024-1-2 ~ 2024-1-5
 - fix aa transaction error
 - iopay 2.9.0 release[done]
-- develop 2.9.1 ioPay
+- develop 2.10.0 ioPay
 - clean up code 
 
 ## 2023-12-24 ~ 2023-12-29
