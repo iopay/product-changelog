@@ -6,7 +6,7 @@
 - clean up code 
 
 ## 2023-12-24 ~ 2023-12-29
-  - iopay 2.9.0 release[wip]
+  - iopay 2.9.0 release[done]
   - imporove confirm transaction dialog
   - fix 2.9.0 bugs
 
