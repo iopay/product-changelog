@@ -10,6 +10,7 @@
   - iopay 2.9.0 release[done]
   - imporove confirm transaction dialog [done]
   - fix 2.9.0 bugs [done]
+  - new AA wallet process
 
 ## 2023-12-18 ~ 2023-12-24
 - Released ioPay v2.8.6 which fixes dapp switching and adds network
