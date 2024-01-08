@@ -2,7 +2,7 @@
 
 ## 2020-1-1 ~ 2023-1-5
   - 2.9.1 word index
-  - Released ioPay v2.9.1 with bug fixes.
+  - Released ioPay v2.9.1 with bug fixes
   - Developing features for version 2.10
 
 ## 2020-12-25 ~ 2023-12-31
