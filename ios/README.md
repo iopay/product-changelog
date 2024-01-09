@@ -1,7 +1,8 @@
 # ioPay iOS Changelog
 ## 2024-1-8 ~ 2024-1-12
 - improve max amount when transfer
-- 
+- optimize the transfer progress
+
 ## 2024-1-2 ~ 2024-1-5
 - fix aa transaction error
 - iopay 2.9.0 release[done]
