@@ -1,5 +1,6 @@
 # ioPay iOS Changelog
 ## 2024-1-8 ~ 2024-1-12
+- fix eth use eip1559 gasfee in 2.9.2 iopay[done]
 - improve max amount when transfer
 - optimize the transfer progress
 
