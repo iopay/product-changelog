@@ -6,7 +6,7 @@
   - 2.9.1 word index
   - Released ioPay v2.9.1 with bug fixes
   - Developing features for version 2.10
-  - transfer dialog
+  - transfer dialog [wip]
 
 ## 2020-12-25 ~ 2023-12-31
   - Release ioPay v2.9.0
