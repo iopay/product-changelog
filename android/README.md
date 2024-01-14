@@ -2,6 +2,7 @@
 
 ## 2024-1-8 ~ 2024-1-14
   - Test version of ioPay with Bitcoin support.
+  - Release ioPay v2.9.2
 
 ## 2020-1-1 ~ 2023-1-5
   - 2.9.1 word index
