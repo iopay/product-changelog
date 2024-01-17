@@ -1,4 +1,9 @@
 # ioPay iOS Changelog
+
+## 2024-1-14 ~ 2024-1-19
+- develop 2.10.0 feature
+- release 2.9.4 for aa transaction
+  
 ## 2024-1-8 ~ 2024-1-12
 - fix eth use eip1559 gasfee in 2.9.2 iopay[done]
 - improve max amount when transfer
