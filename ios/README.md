@@ -3,8 +3,8 @@
 ## 2024-1-14 ~ 2024-1-19
 - develop 2.10.0 feature
 - release 2.9.4 for aa transaction (control the way of paying gas)
-- support the speedup transaction
-- optimize the transfer progress
+- support the speedup transaction [self testing]
+- optimize the transfer progress [self testing]
   
 ## 2024-1-8 ~ 2024-1-12
 - fix eth use eip1559 gasfee in 2.9.2 iopay[done]
