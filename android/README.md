@@ -7,6 +7,7 @@
   - Release ioPay v2.9.2
   - Fix trust.js bridge
   - home ui
+  - chart ui
 
 ## 2020-1-1 ~ 2023-1-5
   - 2.9.1 word index
