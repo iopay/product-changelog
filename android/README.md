@@ -2,7 +2,7 @@
 
 ## 2024-1-15 ～ 20231-1-21
   - Testing ioPay v2.10
-  - Release ioPay v2.10 [wip]
+  - Release ioPay v2.10 
 
 ## 2024-1-8 ~ 2024-1-14
   - Test version of ioPay with Bitcoin support.
