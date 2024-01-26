@@ -9,7 +9,7 @@
   - Test version of ioPay with Bitcoin support.
   - Release ioPay v2.9.2
   - Fix trust.js bridge
-  - home ui
+  - home ui [wip]
   - chart ui
 
 ## 2020-1-1 ~ 2023-1-5
