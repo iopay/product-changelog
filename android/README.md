@@ -1,6 +1,7 @@
 # ioPay Android Changelog
 
 ## 2024-1-29 ~ 2024-2-4
+  - release ioPay v3.0
 
 ## 2024-1-22 ~ 2024-1-28
 
