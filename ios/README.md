@@ -1,5 +1,8 @@
 # ioPay iOS Changelog
-
+## 2024-1-29 ~ 2024-2-3
+- fix 2.10.0 bug
+- release 2.10.0[wip]
+- imporove new home page 
 ## 2024-1-14 ~ 2024-1-19
 - develop 2.10.0 feature
 - release 2.9.4 for aa transaction (control the way of paying gas)
