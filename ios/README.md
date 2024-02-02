@@ -2,7 +2,8 @@
 ## 2024-1-29 ~ 2024-2-3
 - fix 2.10.0 bug
 - release 2.10.0[wip]
-- imporove new home page 
+- imporove new home page
+- improve token trend data
 ## 2024-1-22 ~ 2024-1-27
 - testing 2.10.0
 - 
