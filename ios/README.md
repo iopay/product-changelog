@@ -1,6 +1,6 @@
 # ioPay iOS Changelog
 ## 2024-1-29 ~ 2024-2-3
-- fix 2.10.0 bug
+- 2.10.0 [ios review] 
 - release 2.10.0[wip]
 - imporove new home page [done]
 - improve token trend data
