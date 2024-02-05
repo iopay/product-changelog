@@ -3,7 +3,7 @@
 - 2.10.0 [ios review] 
 - release 2.10.0[wip]
 - imporove new home page [done]
-- improve token trend data
+- improve token trend data [done]
 ## 2024-1-22 ~ 2024-1-27
 - testing 2.10.0
 - 
