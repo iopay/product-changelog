@@ -5,6 +5,8 @@
 - imporove new home page [done]
 - improve token trend data [done]
 - support transaction speed and cancel [done]
+- the new transaction window [done]
+
 ## 2024-1-22 ~ 2024-1-27
 - testing 2.10.0
 - 
