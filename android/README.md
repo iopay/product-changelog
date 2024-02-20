@@ -3,6 +3,7 @@
 ## 2024-2-4 ~ 2024-2-8
   - iopay v3.1 story analyse
   - bitcoin address type
+  - guide dialog
 
 ## 2024-1-29 ~ 2024-2-4
   - release ioPay v3.0
