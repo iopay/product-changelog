@@ -1,6 +1,7 @@
 # ioPay Android Changelog
 
 ## 2024-2-18 ～ 2024-2-25
+  - Bitcoin network ui
 
 ## 2024-2-4 ~ 2024-2-8
   - iopay v3.1 story analyse
