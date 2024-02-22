@@ -1,6 +1,7 @@
 # ioPay iOS Changelog
 ## 2024-2-20 ~ 2024-2-22
 - 3.0.1
+- swap&buy display control
 
 
 ## 2024-1-29 ~ 2024-2-3
