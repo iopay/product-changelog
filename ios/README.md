@@ -2,7 +2,7 @@
 ## 2024-2-20 ~ 2024-2-22
 - 3.0.1
 - swap&buy display control [done]
-- update the trustjs
+- update the trustjs [done]
 
 
 ## 2024-1-29 ~ 2024-2-3
