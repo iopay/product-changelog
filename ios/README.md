@@ -1,4 +1,14 @@
 # ioPay iOS Changelog
+
+## 2024-2-28 ～ 2024-3-1
+- 3.1.0 UI update[wip]
+- update ioPay appIcon [done]
+
+## 2024-2-18 ～ 2024-2-25
+- Bitcoin gas fee
+- Release ioPay v3.0.1
+- edit gas dialog
+
 ## 2024-2-20 ~ 2024-2-22
 - 3.0.1
 - swap&buy display control [done]
