@@ -3,6 +3,7 @@
 ## 2024-2-26 ～ 2024-3-3
   - Release ioPay v3.0.2
   - Sign bitcoin transaction
+  - wallet connect 2.0
 
 
 ## 2024-2-18 ～ 2024-2-25
