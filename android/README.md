@@ -1,6 +1,7 @@
 # ioPay Android Changelog
 
 ## 2024-3-4 ～ 2024-3-10
+  - Releasing v3.0.3 version with support for WalletConnect deep links
 
 ## 2024-2-26 ～ 2024-3-3
   - Release ioPay v3.0.2
