@@ -3,6 +3,7 @@
 
 ## 2024-3-18 ～ 2024-3-24
   - base toolbar [wip]
+  - Supporting Bitcoin's NestedSegwit and Taproot addresses 【wif】
 
 ## 2024-3-11 ～ 2024-3-17
   - Releasing v3.1.0
