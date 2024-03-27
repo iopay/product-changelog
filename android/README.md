@@ -4,6 +4,7 @@
 ## 2024-3-18 ～ 2024-3-24
   - base toolbar
   - create wallet ui
+  - swap setting ui
   - Supporting Bitcoin's NestedSegwit and Taproot addresses 【wif】
 
 ## 2024-3-11 ～ 2024-3-17
