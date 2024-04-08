@@ -11,6 +11,8 @@
 - Bitcoin internal version [wif]
 - The bitcoin test demonstration
 - Test 3.2.
+## 2024-3-3 ～ 2024-3.7
+- developing 3.2.0
 ## 2024-2-28 ～ 2024-3-1
 - 3.1.0 UI update[wip]
 - update ioPay appIcon [done]
