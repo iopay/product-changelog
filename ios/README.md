@@ -16,7 +16,7 @@
 ## 2024-2-28 ～ 2024-3-1
 - 3.1.0 UI update[wip]
 - update ioPay appIcon [done]
-- Bitcoin transaction
+- Bitcoin transaction [done]
 
 ## 2024-2-18 ～ 2024-2-25
 - Bitcoin gas fee
