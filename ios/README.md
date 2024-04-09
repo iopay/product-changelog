@@ -7,7 +7,7 @@
 - testing 3.2.0
 - Bitcoinkit update [done]
 - Bitcoinkit dapp inject js
-- btc dapp support get account\balance\sign
+- btc dapp support get account\balance\sign\broadcast
 
 ## 2024-3-25 ～ 2024-3-31
 - Bitcoin transaction
