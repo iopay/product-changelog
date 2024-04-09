@@ -12,6 +12,8 @@
 - The bitcoin test demonstration
 - Test 3.2.
 - Bitcoin support 4 types transaction
+- Bitcoin dapp support
+
 
 ## 2024-3-3 ～ 2024-3.7
 - developing 3.2.0
