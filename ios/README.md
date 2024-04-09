@@ -5,6 +5,7 @@
 
 ## 2024-4-1 ～ 2024-4.3
 - testing 3.2.0
+- Bitcoinkit update
   
 ## 2024-3-25 ～ 2024-3-31
 - Bitcoin transaction
