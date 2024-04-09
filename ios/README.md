@@ -8,9 +8,11 @@
   
 ## 2024-3-25 ～ 2024-3-31
 - Bitcoin transaction
-- Bitcoin internal version [wif]
+- Bitcoin internal version [done]
 - The bitcoin test demonstration
 - Test 3.2.
+
+
 ## 2024-3-3 ～ 2024-3.7
 - developing 3.2.0
 ## 2024-2-28 ～ 2024-3-1
