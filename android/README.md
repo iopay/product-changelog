@@ -1,5 +1,8 @@
 # ioPay Android Changelog
 
+## 2024-4-8 ～ 2024-4-12
+  - Releasing v3.2.0
+
 ## 2024-3-25 ～ 2024-3-31
   - Bitcoin transaction
   - Bitcoin internal version [wif]
