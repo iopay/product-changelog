@@ -2,7 +2,8 @@
 
 ## 2024-4-8 ～ 2024-4.14
 - release 3.2.0 
-- bitcoinkit update 
+- bitcoinkit update
+- fix some bug in 3.2 
 
 ## 2024-4-1 ～ 2024-4.3
 - testing 3.2.0
