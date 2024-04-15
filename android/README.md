@@ -2,6 +2,7 @@
 
 ## 2024-4-8 ～ 2024-4-12
   - Releasing v3.2.0.
+  - Bitcoin sdk support Dapp[wif]
 
 ## 2024-3-25 ～ 2024-3-31
   - Bitcoin transaction
