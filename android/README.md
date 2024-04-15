@@ -2,6 +2,7 @@
 
 ## 2024-4-15 ~ 2024-4-21
   - Bicoin sdk
+  - Publish bitcoin internal version[wif]
 
 ## 2024-4-8 ～ 2024-4-12
   - Releasing v3.2.0.
