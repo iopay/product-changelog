@@ -2,6 +2,7 @@
 
 ## 2024-4-22 ～ 2020-4-28
   - Publish bitcoin internal version
+  - setting code
 
 ## 2024-4-15 ~ 2024-4-21
   - Bicoin sdk
