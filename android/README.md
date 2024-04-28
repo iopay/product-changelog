@@ -6,6 +6,7 @@
   - Publish bitcoin internal version
   - setting code
   - Bitcoin dapp supports network switching
+  - Fix the issues existing in Bitcoin
 
 ## 2024-4-15 ~ 2024-4-21
   - Bicoin sdk
