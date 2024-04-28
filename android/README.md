@@ -3,6 +3,7 @@
 ## 2024-4-22 ～ 2020-4-28
   - Publish bitcoin internal version
   - setting code
+  - Bitcoin dapp supports network switching
 
 ## 2024-4-15 ~ 2024-4-21
   - Bicoin sdk
