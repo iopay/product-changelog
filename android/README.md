@@ -1,7 +1,7 @@
 # ioPay Android Changelog
 
 ## 2024-4-29 ～ 2024-5-5
- - Support the Bitcoin livenet
+ - Support the Bitcoin livenet[wif]
 
 ## 2024-4-22 ～ 2020-4-28
   - Publish bitcoin internal version
