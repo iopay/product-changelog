@@ -2,7 +2,7 @@
 
 ## 2024-5-6 ～ 2024-5-12
  - Support the Bitcoin livenet
- - network error
+ - network error.
 
 ## 2024-4-29 ～ 2024-5-5
  - Support the Bitcoin livenet[wif]
