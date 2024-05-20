@@ -1,6 +1,6 @@
 # ioPay iOS Changelog
 
-## 2024-5
+## 2024-5 (3.3.0)
 - ios btc transfer fixing
 - ios btc refactor creating wallets
 - btc wallets fetch balances
