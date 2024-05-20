@@ -6,7 +6,7 @@
 - btc wallets fetch balances
 - display the relative headers
 - btc mainnet support
-- switch the btc network
+- handle switching the btc and other network
 
 ## 2024-4-8 ～ 2024-4.14
 - release 3.2.0 
