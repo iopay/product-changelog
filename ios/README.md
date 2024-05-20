@@ -5,6 +5,7 @@
 - ios btc refactor creating wallets
 - btc wallets fetch balances
 - display the relative headers
+- btc mainnet support
 
 ## 2024-4-8 ～ 2024-4.14
 - release 3.2.0 
