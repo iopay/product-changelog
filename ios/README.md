@@ -7,6 +7,7 @@
 - display the relative headers
 - btc mainnet support
 - handle switching the btc and other network
+- update the fees
 
 ## 2024-4-8 ～ 2024-4.14
 - release 3.2.0 
