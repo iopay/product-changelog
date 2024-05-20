@@ -3,6 +3,7 @@
 ## 2024-5
 - ios btc transfer fixing
 - ios btc refactor creating wallets
+- btc wallets fetch balances
 
 ## 2024-4-8 ～ 2024-4.14
 - release 3.2.0 
