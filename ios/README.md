@@ -1,5 +1,9 @@
 # ioPay iOS Changelog
 
+## 2024-5
+- ios btc transfer fixing
+- ios btc refactor creating wallets
+
 ## 2024-4-8 ～ 2024-4.14
 - release 3.2.0 
 - bitcoinkit update
