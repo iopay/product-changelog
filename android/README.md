@@ -4,6 +4,7 @@
  - Release ioPay bitcoin version
  - token code refine
  - receive page
+ - solana network
 
 ## 2024-5-6 ～ 2024-5-12
  - Support the Bitcoin livenet
