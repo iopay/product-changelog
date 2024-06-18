@@ -7,7 +7,7 @@
  - ioTube solana devnet
 
 ## 2024-5-27 ～ 2024-6-2
-- solana SOL.
+- solana SOL
 
 ## 2024-5-20 ～ 2024-5-26
 
