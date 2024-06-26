@@ -3,6 +3,7 @@
 ## 2024-6-24 ~ 2024-6-30
 
 ## 2024-6-17 ~ 2024-6-23
+  - Make ioConnect sdk and generate did
 
 ## 2024-6-10 ~ 2024-6-16
   - solana SPL token
