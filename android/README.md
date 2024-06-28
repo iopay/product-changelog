@@ -2,6 +2,7 @@
 
 ## 2024-6-24 ~ 2024-6-30
  - Test iotube’s solana mainnet SPL-TOken bridge to iotex function
+ - Test ioPay v3.5
 
 ## 2024-6-17 ~ 2024-6-23
   - Make ioConnect sdk and generate did
