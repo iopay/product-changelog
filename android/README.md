@@ -3,6 +3,7 @@
 ## 2024-7-8 ~ 2024-7-14
 
 ## 2024-7-1 ~ 2024-7-7
+ - The ioPay google open testing
 
 ## 2024-6-24 ~ 2024-6-30
  - Test iotube’s solana mainnet SPL-TOken bridge to iotex function
