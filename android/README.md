@@ -2,7 +2,7 @@
 
 ## 2024-7-8 ~ 2024-7-14
  - Testing ioPay solana version
- - release solana version.
+ - release solana version
 
 ## 2024-7-1 ~ 2024-7-7
  - The ioPay google open testing
