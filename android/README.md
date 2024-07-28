@@ -1,10 +1,13 @@
 # ioPay Android Changelog
 
 ## 2024-7-29 ～ 2024-8-4
+ - 
 
 ## 2024-7-22 ～ 2024-7-28
+ - ioPay releases new stake feature
 
 ## 2024-7-15 ～ 2024-7-21
+ - 
 
 ## 2024-7-8 ~ 2024-7-14
  - Testing ioPay solana version
