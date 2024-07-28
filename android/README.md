@@ -4,10 +4,10 @@
  - 
 
 ## 2024-7-22 ～ 2024-7-28
- - ioPay releases new stake feature
+ - ioPay is released to support the Solana network feature
 
 ## 2024-7-15 ～ 2024-7-21
- - 
+ - ioPay releases new stake feature
 
 ## 2024-7-8 ~ 2024-7-14
  - Testing ioPay solana version
