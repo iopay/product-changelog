@@ -5,6 +5,7 @@
 
 ## 2024-7-22 ～ 2024-7-28
  - ioPay is released to support the Solana network feature
+ - ioTube supports solana wrap and unwrap feature
 
 ## 2024-7-15 ～ 2024-7-21
  - ioPay releases new stake feature
