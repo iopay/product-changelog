@@ -1,7 +1,7 @@
 # ioPay Android Changelog
 
 ## 2024-7-29 ～ 2024-8-4
- - 
+ - ioTube supports SOL from the Solana mainnet bridge to the IoTeX mainnet
 
 ## 2024-7-22 ～ 2024-7-28
  - ioPay is released to support the Solana network feature
