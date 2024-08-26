@@ -3,6 +3,7 @@
 ## 2024-8-26 ~ 2024-9-1
 
 ## 2024-8-19 ~ 2024-8-25
+ - Release ioPay solana injection bridge
 
 ## 2024-8-12 ~ 2024-8-18
  - Complete the docking of the ioTube solana chain
