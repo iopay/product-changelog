@@ -5,6 +5,7 @@
 ## 2024-8-19 ~ 2024-8-25
 
 ## 2024-8-12 ~ 2024-8-18
+ - Complete the docking of the ioTube solana chain
 
 ## 2024-8-5 ~ 2024-8-11
  - Release ioPay v3.6.0
