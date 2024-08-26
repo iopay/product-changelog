@@ -7,6 +7,7 @@
 ## 2024-8-12 ~ 2024-8-18
 
 ## 2024-8-5 ~ 2024-8-11
+ - Release ioPay v3.6.0
 
 ## 2024-7-29 ～ 2024-8-4
  - ioTube supports WSOL from the Solana mainnet bridge to the IoTeX mainnet
