@@ -2,6 +2,7 @@
 
 ## 2024-8-26 ~ 2024-9-1
  - ioTube solana supports more tokens
+ - Test the ioPay Night & Day Mode version
 
 ## 2024-8-19 ~ 2024-8-25
  - Release ioPay solana injection bridge
