@@ -5,7 +5,7 @@
  - Test the ioPay Night & Day Mode version
 
 ## 2024-8-19 ~ 2024-8-25
- - Develop Night & Day Mode version
+ - Develop Night & Day Mode version w
  - Develop an ioPay solana injection bridge
  - Release the open testing version of ioPay solana injection bridge
 
