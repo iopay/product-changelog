@@ -7,6 +7,7 @@
 ## 2024-9-9 ～ 2024-9-15
 
 ## 2024-9-2 ～ 2024-9-8
+ - Release the ioPay Night & Day Mode version 
 
 ## 2024-8-26 ~ 2024-9-1
  - ioTube solana supports more tokens
