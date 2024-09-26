@@ -4,9 +4,10 @@
  - Points task feature[wif]
 
 ## 2024-9-16 ～ 2024-9-22
+ - 
 
 ## 2024-9-9 ～ 2024-9-15
- - 
+ - Release ioTube solana bridge
 
 ## 2024-9-2 ～ 2024-9-8
  - Release the ioPay Night & Day Mode version 
