@@ -6,6 +6,7 @@
 
 ## 2024-9-16 ～ 2024-9-22
  - Fix ioTube bugs
+ - Release ioPay fixed version v4.0.1
 
 ## 2024-9-9 ～ 2024-9-15
  - Release ioTube solana bridge
