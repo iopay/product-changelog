@@ -1,5 +1,7 @@
 # ioPay Android Changelog
 
+## 2024-9-30 ～ 2024-10-6
+
 ## 2024-9-23 ～ 2024-9-29
  - Points task feature[wif]
  - Release the ioPay points task version
