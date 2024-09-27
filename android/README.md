@@ -2,6 +2,7 @@
 
 ## 2024-9-23 ～ 2024-9-29
  - Points task feature[wif]
+ - Release the ioPay points task version
 
 ## 2024-9-16 ～ 2024-9-22
  - Fix ioTube bugs
