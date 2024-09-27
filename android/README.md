@@ -4,7 +4,7 @@
  - Points task feature[wif]
 
 ## 2024-9-16 ～ 2024-9-22
- - 
+ - Fix ioTube bugs
 
 ## 2024-9-9 ～ 2024-9-15
  - Release ioTube solana bridge
