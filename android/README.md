@@ -8,6 +8,7 @@
 
 ## 2024-10-7 ～ 2024-10-13
  - Release ioPay v4.1.0
+ - Develop and test Okx Campaign features
 
 ## 2024-9-30 ～ 2024-10-6
  - National Day holiday
