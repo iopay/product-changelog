@@ -14,7 +14,8 @@
 ## 2024-10-28 ～ 2024-11-03
 
 ## 2024-10-21 ～ 2024-10-27
-
+ - ioPay swap supports usdc, usdc.e trading pairs
+   
 ## 2024-10-14 ～ 2024-10-20
  - Release ioPay v4.2.0
 
