@@ -9,6 +9,7 @@
  - Develop the Goat Earn telegram miniApp[wif]
 
 ## 2024-11-04 ～ 2024-11-10
+ - Optimize the performance of the ioPay dapp injection bridge
 
 ## 2024-10-28 ～ 2024-11-03
 
