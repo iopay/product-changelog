@@ -12,6 +12,7 @@
  - Optimize the performance of the ioPay dapp injection bridge
 
 ## 2024-10-28 ～ 2024-11-03
+ - ioPay v4.2.0 is released, including the Okx-campagin feature
 
 ## 2024-10-21 ～ 2024-10-27
  - ioPay swap supports usdc, usdc.e trading pairs
