@@ -3,7 +3,7 @@
 ## 2024-11-25 ～ 2024-12-01
 
 ## 2024-11-18 ～ 2024-11-24
- 
+ - Completed the development of the Goat Earn telegram miniApp, tested and released
 
 ## 2024-11-11 ～ 2024-11-17
  - Develop the Goat Earn telegram miniApp[wif]
