@@ -11,9 +11,10 @@
 
 
 ## 2024-12-09 ～ 2024-12-15
+ - 
 
 ## 2024-12-02 ～ 2024-12-08
- - 
+ - Refactored the Get Goated miniApp convert logic
 
 ## 2024-11-25 ～ 2024-12-01
  - Get Goated miniApp integrates with the OKX SDK
