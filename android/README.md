@@ -7,6 +7,8 @@
  
 
 ## 2024-12-16 ～ 2024-12-22
+ - Develop the new version of ioPya swap UI
+
 
 ## 2024-12-09 ～ 2024-12-15
 
