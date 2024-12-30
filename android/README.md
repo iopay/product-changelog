@@ -3,12 +3,15 @@
 ## 2024-12-30 ～ 2024-01-05
 
 ## 2024-12-23 ～ 2024-12-29
+ - Optimized the Get Goated miniApp banner
+ 
 
 ## 2024-12-16 ～ 2024-12-22
 
 ## 2024-12-09 ～ 2024-12-15
 
 ## 2024-12-02 ～ 2024-12-08
+ - 
 
 ## 2024-11-25 ～ 2024-12-01
  - Get Goated miniApp integrates with the OKX SDK
