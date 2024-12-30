@@ -5,6 +5,7 @@
 
 ## 2024-12-23 ～ 2024-12-29
  - Optimized the Get Goated miniApp banner
+ - Share a demo of Get Goated miniApp at the weekly meeting
  
 
 ## 2024-12-16 ～ 2024-12-22
