@@ -7,11 +7,11 @@
  
 
 ## 2024-12-16 ～ 2024-12-22
- - Develop the new version of ioPya swap UI
+ - Review the ioPay swap code and fix issues that the code is unreasonable
 
 
 ## 2024-12-09 ～ 2024-12-15
- - 
+ - Develop the new version of ioPay swap UI
 
 ## 2024-12-02 ～ 2024-12-08
  - Refactored the Get Goated miniApp convert logic
