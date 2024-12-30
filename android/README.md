@@ -11,6 +11,8 @@
 ## 2024-12-02 ～ 2024-12-08
 
 ## 2024-11-25 ～ 2024-12-01
+ - Get Goated miniApp integrates with the OKX SDK
+ - Fix online user experience issues
 
 ## 2024-11-18 ～ 2024-11-24
  - Completed the development of the Goat Earn telegram miniApp, tested and released
