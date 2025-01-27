@@ -5,6 +5,7 @@
 
 ## 2025-01-20 ～ 2025-01-26
  - ioPay new version swap feature docking
+ - Added iotube manual submission of signature function
 
 ## 2025-01-13 ～ 2025-01-19
  - ioPay new version swap UI
