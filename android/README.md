@@ -1,9 +1,9 @@
 # ioPay Android Changelog
 
-## 2025-01-27 ～ 2025-02-04
+## 2025-01-28 ～ 2025-02-04
  - Chinese New Year Holiday
 
-## 2025-01-20 ～ 2025-01-26
+## 2025-01-20 ～ 2025-01-27
  - ioPay new version swap feature docking
  - Added iotube manual submission of signature function
 
