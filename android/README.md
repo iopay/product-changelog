@@ -1,6 +1,7 @@
 # ioPay Android Changelog
 
 ## 2025-01-27 ～ 2025-02-04
+ - Chinese New Year Holiday
 
 ## 2025-01-20 ～ 2025-01-26
 
