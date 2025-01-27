@@ -8,6 +8,7 @@
 
 ## 2025-01-13 ～ 2025-01-19
  - ioPay new version swap UI
+ - ioPay new version swap feature docking[wif]
 
 ## 2025-01-06 ～ 2025-01-12
  - 4.4.3 release
