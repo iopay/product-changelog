@@ -1,6 +1,8 @@
 # ioPay Android Changelog
 
 ## 2025-01-28 ～ 2025-02-04
+ - 4.4.4 release
+## 2025-01-28 ～ 2025-02-04
  - Chinese New Year Holiday
 
 ## 2025-01-20 ～ 2025-01-27
