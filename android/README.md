@@ -5,6 +5,7 @@
 
 
 ## 2025-02-17 ～ 2025-02-23
+ - Calculate Uniswap transaction slippage
 
 ## 2025-02-10 ～ 2025-02-16
  - Fix issues of the swap internal beta version
