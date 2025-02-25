@@ -2,6 +2,7 @@
 
 ## 2025-02-05 ～ 2025-02-08
  - Access to uniswap's api
+ - Release the swap internal beta version
 
 ## 2025-01-28 ～ 2025-02-04
  - 4.4.4 release.
