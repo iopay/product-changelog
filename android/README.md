@@ -2,6 +2,7 @@
 
 ## 2025-02-10 ～ 2025-02-16
  - Fix issues of the swap internal beta version
+ - Optimize the problem of ioPay online caton
 
 ## 2025-02-05 ～ 2025-02-08
  - Access to uniswap's api
