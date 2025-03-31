@@ -5,6 +5,7 @@
 
 ## 2025-03-17 ～ 2025-03-23
 - ioPay integrates and tests the Bino Ai feature
+- Develop a new version of the ioTube front-end interface[wif]
 
 ## 2025-03-10 ～ 2025-03-16
 - Develop a new version of the ioTube server
