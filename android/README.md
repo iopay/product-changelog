@@ -7,6 +7,7 @@
 ## 2025-03-10 ～ 2025-03-16
 
 ## 2025-03-03 ～ 2025-03-09
+- Connect all the work of the ioPay team
 
 ## 2025-02-24 ～ 2025-03-02
 - Merge the code into master for regression testing
