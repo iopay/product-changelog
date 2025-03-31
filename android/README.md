@@ -1,6 +1,7 @@
 # ioPay Android Changelog
 
 ## 2025-03-31 ～ 2025-04-06
+- Test the new version of the ioPay UI and optimize the ioPay user checkup
 
 ## 2025-03-24 ～ 2025-03-30
 - Fixed the bug of Bino AI in ioPay and released it
